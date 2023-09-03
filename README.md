@@ -11,6 +11,7 @@ npm i or npm install
 
 ## Screenshot 
 
+![logo](https://github.com/omarx/SVG-Logo-Maker/assets/4944767/ad909021-e99e-49d3-b681-8d33d2748d65)
 
 
 ## Questions
